@@ -1,2 +1,2 @@
 # ios-good-weather
-Wheater MVVM Swift App
+iOS Hot Coffee study project using MVVM architecture and Delegate concepts
